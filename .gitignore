@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NewsPortal/config
+/.vs/NewsPortal/FileContentIndex
+/News.Model/bin/Debug
+/News.Model/obj/Debug
+/NewsBusiness/bin/Debug
+/NewsBusiness/obj/Debug
+/NewsPortal/bin
+/NewsPortal/obj/Debug
+/packages
